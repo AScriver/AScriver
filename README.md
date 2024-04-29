@@ -2,9 +2,9 @@
 
 [](https://github.com/expressjs/express/pull/3810)
 
-### [aceakash/string-similarity](https://github.com/aceakash/string-similarity) ([PR#26](https://github.com/aceakash/string-similarity/pull/26))
-### [expressjs/express](https://github.com/expressjs/express) ([PR#3810](https://github.com/expressjs/express/pull/3810))
-### [MarlBurroW/RLSDK-Python](https://github.com/MarlBurroW/RLSDK-Python) ([PR#1](https://github.com/MarlBurroW/RLSDK-Python/pull/1))
+### [aceakash/string-similarity](https://github.com/aceakash/string-similarity/pulls?q=is%3Apr+author%3AAScriver+is%3Aclosed+)
+### [expressjs/express](https://github.com/expressjs/express/pulls?q=is%3Apr+author%3AAScriver+is%3Aclosed+)
+### [MarlBurroW/RLSDK-Python](https://github.com/MarlBurroW/RLSDK-Python/pulls?q=is%3Apr+author%3AAScriver+is%3Aclosed+)
 
 _________________
 
